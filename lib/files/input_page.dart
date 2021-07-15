@@ -15,7 +15,7 @@ class InputPage extends StatefulWidget {
 
 class _InputPageState extends State<InputPage> {
   String seciliCinsiyet;
-  double icilenSigara = 20.0;
+  double icilenSigara = 10.0;
   double sporGunu = 3;
   int boy = 150;
   int kilo = 60;
